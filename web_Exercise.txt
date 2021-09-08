@@ -1,0 +1,45 @@
+How web works Exercise:
+
+Part 1: Solidify Terminology
+
+Q1: What is HTTP?
+It's full form is a Hypertext Transfer Protocol. It is data communication for the World wide web. It is designed to do network elements to enable communications between clients and servers.
+
+Q2: What is URL?
+It stands for Uniform Resource Locator.It has a unique resources. It is a way of searching the resources on the Internet. It is used to command the computer which site to go.
+
+Q3: What is DNS?
+It is a Domain name system. We can access information online through domain names. It is like a phonebook on the Internet. When a user enters into the browser, it converts into the numeric internet protocol address.
+
+Q4: What is a query string?
+It is a part of URL which includes values to specified parameters. It allows to pass key-value pairs format like key=value.
+
+Q5:What are two HTTP verbs and how are they different?
+GET- to get required data form server.
+POST- to send the specific data to the server.
+
+Q6:What is an HTTP request?
+It is  information to communicate from one computer to another or from client to server.
+
+Q7:What is an HTTP response?
+It is a response from server to client in HTTP protocol.
+
+Q8:What is an HTTP header? Give a couple examples of request and response headers you have seen.
+It provides additional information about request(like cookies, host, cache,etc) and response(set-cookie, content-type, last-modified, etc).
+
+Q9:What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+Browser makes request to IP address
+Server sends a response
+ Browser makes DOM using HTML, CSS , JavaScript, Images etc.
+Brower marks separate HTTP requests and receives responses from the server.
+
+
+
+
+
+
+
+
+
+
+
